@@ -1,6 +1,6 @@
 # LogisticsShippingRates
 
-Please consider the below factors while contributing
+Please consider the below factors while [contributing](CONTRIBUTING.md).
 
 ## Code Style
 Maintain a consistent code style for readability.
@@ -19,3 +19,5 @@ All contributions undergo a code review process.
 
 ## Licensing
 Contributions are licensed.
+
+
