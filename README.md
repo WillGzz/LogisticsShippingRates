@@ -1,6 +1,6 @@
 # LogisticsShippingRates
 
-Please consider the below factors while [contributing](CONTRIBUTING.md).
+Please consider the factors below while [contributing](CONTRIBUTING.md).
 
 ## Code Style
 Maintain a consistent code style for readability.
